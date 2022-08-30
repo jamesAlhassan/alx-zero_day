@@ -1,1 +1,4 @@
-My first readme
+# ALX ZERO DAY
+### C
+### Bash
+### js
